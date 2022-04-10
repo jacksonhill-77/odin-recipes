@@ -1,0 +1,17 @@
+p {
+    background-color: blanchedalmond;
+    color: blue;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    background-color: aqua;
+    color: lightcoral;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+    background-color: aliceblue;
+}
